@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nexag0n
-- 👀 I’m interested in Frontend
-- 🌱 I’m currently learning HTML+CSS JavaScript, Vue, React
+- 👀 I’m Frontend Developer
+- 🌱 I’m currently learning JavaScript, Vue, React
 - 📫 How to reach me nillxofficial@gmail.com
 
 <!---
